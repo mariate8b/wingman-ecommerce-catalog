@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",  // Enable modern JavaScript
+    "module": "ESNext",  // Keep it compatible with ES Modules
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}
