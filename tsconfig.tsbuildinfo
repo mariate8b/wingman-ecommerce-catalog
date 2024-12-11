@@ -1,1 +1,1 @@
-{"root":["./vite.config.ts","./src/app.tsx","./src/main.tsx","./src/setuptests.ts","./src/vite-env.d.ts","./src/components/productlist.test.tsx","./src/components/productlist.tsx","./src/store/index.ts","./src/store/productsslice.ts"],"errors":true,"version":"5.6.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/setuptests.ts","./src/vite-env.d.ts","./src/components/productlist.test.tsx","./src/components/productlist.tsx","./src/store/index.ts","./src/store/productsslice.ts"],"version":"5.6.3"}
